@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @yxiZo
-- 👀 I’m interested in everything is interested
-- 🌱 I’m currently learning Typescript , UX/UI , Vite , React 
+- 👋 Hi, I’m @yxiZo, a full-stack developer
+- 👀 I’m interested in everything is interesting
+- 🌱 I’m currently learning Typescript , NestJS , Next.js ,  UX/UI , React , Bun , Node , Rust
 - 📫 How to reach me ?  Feel free to send me an [Email](mailto:cri.sri@outlook.com)
 
 <!---
